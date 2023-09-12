@@ -118,10 +118,9 @@ Entropy sources can be added according to their type of QML sensors by **addSour
 ```
 
 ## Architecture
-You can find the diagram here: "docs/Fortuna_architecture.png"
-
+![Architecture](https://github.com/BitcoinOXapp/qt-fortuna-random-generator/blob/main/docs/Fortuna_architecture.png)
 ## Algorithm
-You can find the diagram here: "docs/Fortuna_algorithm.png"
+![Algorithm](https://github.com/BitcoinOXapp/qt-fortuna-random-generator/blob/main/docs/Fortuna_algorithm.png)
 
 ## Documentation
 
